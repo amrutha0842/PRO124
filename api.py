@@ -4,14 +4,14 @@ app = Flask(__name__)
 tasks = [
     {
         "id":1 ,
-        "name":u'Nikhil Shaw',
-        "contact":u"7217864817",
+        "name":u'Raju',
+        "contact":u"998764456",
         "done":False,
     },
     {
         "id":2 ,
-        "name":u'Simran Shaw',
-        "contact":u"8130499441",
+        "name":u'Rahul',
+        "contact":u"9876543222",
         "done":False,
     }
 ]
